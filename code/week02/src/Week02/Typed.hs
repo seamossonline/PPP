@@ -12,6 +12,7 @@
 
 module Week02.Typed where
 
+
 import           Control.Monad        hiding (fmap)
 import           Data.Map             as Map
 import           Data.Text            (Text)
